@@ -29,6 +29,9 @@ O foco principal foi aplicar conceitos de engenharia de dados, como ETL (Extraç
 
 #### Modelagem Dimensional
 
+![banner](https://github.com/DanielPedroSantos/SuperStorePY/blob/main/Captura%20de%20tela%20de%202025-10-17%2018-55-28.png)
+
+
 ##### Criação das tabelas dimensionais e da tabela fato:
 
 - dim_cliente_scd1
