@@ -29,6 +29,7 @@ O foco principal foi aplicar conceitos de engenharia de dados, como ETL (Extraç
 
 #### Modelagem Dimensional
 
+![banner]
 ##### Criação das tabelas dimensionais e da tabela fato:
 
 - dim_cliente_scd1
